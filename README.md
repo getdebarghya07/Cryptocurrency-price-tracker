@@ -1,3 +1,18 @@
+# Cryptocurrency Price Tracker
+Cryptocurrency is a digital payment system that doesn't rely on banks to verify transactions. It's a peer-to-peer system that can enable anyone anywhere to send and receive payments. Instead of being physical money that is carried around and exchanged in the real world, cryptocurrency payments exist purely as digital entries to an online database that describe specific transactions. When you transfer cryptocurrency funds, the transactions are recorded in a public ledger. You store your cryptocurrency in a digital wallet.
+
+The cryptocurrency market constantly witness a mixed trend of positive and negative momentum as the the market is too unstable that's why everyone needs past data of Cryptocurrencies to assess the market.
+
+**Cryptocurrency Price Tracker**  makes it easy for you to collect, analyze, and monitor cryptocurrency data.
+
+The site is hosted [here](https://getdebarghya07.github.io/Cryptocurrency-price-tracker/)
+
+## UPD
+The site isn't completed yet , I'll be adding more features till then you can enjoy the [table](https://getdebarghya07.github.io/Cryptocurrency-price-tracker/) ;)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
